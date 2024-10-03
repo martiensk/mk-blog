@@ -1,5 +1,18 @@
 # Documentation
 
+## Table of Contents
+
+1. [About](#about)
+2. [How to set up a blog using this repo](#clone-process)
+
+## About <a name="about"></a>
+
+This is not a CMS tool, like Wordpress or the like. This is a WIP blog tool that requires to be duplicated for each blog. If you want to be able to get updates you will have to clone this repo and keep a dependency on the original from the fork. Included is a step by step guide.
+
+## How to set up a blog using this repo <a name="clone-process"></a>
+
+git checkou -b docs
+
 ## Setup
 
 Make sure to install the dependencies:
